@@ -39,6 +39,25 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="36" src="https://img.icons8.com/color/344/python.png" alt="Nodejs"/></code>
+<code><img height="34" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" alt="Nodejs"/></code>
+<code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="Nodejs"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="Nodejs"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="Nodejs"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Nodejs"/></code>
+<code><img height="34" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Nodejs"/></code>
+<code><img height="34" src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.1.5/1604851345822/Microsoft.VisualStudio.Services.Icons.Default" alt="Nodejs"/></code>
+<code><img height="34" src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Nodejs"/></code>
+<code><img height="34" src="https://cdn.iconscout.com/icon/free/png-256/android-2719784-2265530.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="Nodejs"/></code>
+
+**Data**
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-5-569524.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/elastic-283142.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Insomnia"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/amazon-s3-2968702-2464706.png" alt="Insomnia"/></code>
 
 **Utilities**
 
@@ -53,6 +72,41 @@
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
 <code><img height="32" src="https://img.icons8.com/color/2x/gitlab.png" alt="Gitlab"/></code>
 <code><img height="32" src="https://img.icons8.com/color/452/kubernetes.png" alt="Kubernetes"/></code>
-<code><img  height="32" src="https://img.icons8.com/color/344/docker.png" alt="Docker"/></code>
+<code><img  height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" alt="Docker"/></code>
 <code><img width=44 height="32" src="https://cdn.worldvectorlogo.com/logos/rancher.svg" alt="Docker"/></code>
 <code><img width=48 height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws"/></code>
+
+**Business Tools**
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/trello-2752053-2284870.png" alt="Trello"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/slack-2752072-2284889.png" alt="Trello"/></code>
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/asana-512.png" alt="Trello"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/skype-48-156921.png" alt="Trello"/></code>
+
+<br/>
+
+## Coding Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroUNB&show_icons=true&theme=dracula" alt="Pedro's github stats" />
+</p>
+
+<br/>
+
+## Github Stats
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroUNB&layout=compact&theme=dracula" />
+</p>
+
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/PedroUNB/PedroUNB" alt="Visitors badge" />
+   </a>
+</p>
