@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm a FullStack Developer and Computer Science Student at University of Brasilia, currently 21 years old and living in
+  I'm a FullStack Developer and Computer Science Student at University of Brasilia, currently 22 years old and living in
   <b>Brazil</b>   <img width="14" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />.
 </p>
 
