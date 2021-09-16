@@ -12,11 +12,9 @@
 
 - 👨‍🏫 I'am a participant in the pedagogical residency program;
 
-- 👩🏻‍💻 I’m currently working on something cool;
+- 👩🏻‍💻 I’m currently working on <a href="https://curia.coop/">Curia</a> project;
 
-- 🌱 I’m currently learning everything; 
-
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I'm always improvement my self; 
 
 - ⚡ I like playing with the Rubik's cube;
 
@@ -30,58 +28,91 @@
   <code><img alt="My e-mail" width="32" src="https://user-images.githubusercontent.com/65639491/133540491-db05d884-4f6d-415b-bb28-7d3dccd2c964.png" /></code>
 </a>
 
+<a href="https://pedrounb.com.br">
+  <code><img alt="My webpage" width="32" src="https://user-images.githubusercontent.com/65639491/133542218-ae2ff3bc-a992-4408-9842-2351b53330a0.png" /></code>
+</a>
+
 <br/><br/>
 
 ## My Development Stack
+**Programming Languages:**
 
-**Application**
+<table>
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img title="JavaScript" alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.typescriptlang.org/">
+        <img title="TypeScript" alt="TypeScript" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="36" src="https://img.icons8.com/color/344/python.png" alt="Nodejs"/></code>
-<code><img height="34" src="https://www.flaticon.com/svg/static/icons/svg/919/919854.svg" alt="Nodejs"/></code>
-<code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Nodejs"/></code>
-<code><img height="34" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Nodejs"/></code>
-<code><img height="34" src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.1.5/1604851345822/Microsoft.VisualStudio.Services.Icons.Default" alt="Nodejs"/></code>
-<code><img height="34" src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="Nodejs"/></code>
-<code><img height="34" src="https://cdn.iconscout.com/icon/free/png-256/android-2719784-2265530.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="Nodejs"/></code>
+**Frameworks and Libraries:**
 
-**Data**
+<table>
+  <tr>
+    <td>
+      <a href="https://vuejs.org/">
+        <img title="Vue" alt="Vue" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://nodejs.org/en/">
+        <img title="NodeJs" alt="NodeJs" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.docker.com/">
+        <img title="Docker" alt="Docker" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+      </a>   
+    </td>
+  </tr>
+</table>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-5-569524.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/elastic-283142.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="Insomnia"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/amazon-s3-2968702-2464706.png" alt="Insomnia"/></code>
+**Others:**
 
-**Utilities**
+<table>
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img title="HTML" alt="HTML" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img title="CSS" alt="CSS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://sass-lang.com/">
+        <img title="SASS" alt="SASS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<code><img height="32" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://img.icons8.com/dusk/344/postman-api.png" alt="Postman"/></code>
-<code><img height="32" src="https://img.icons8.com/color/344/intellij-idea.png" alt="Postman"/></code>
-<code><img height="32" src="https://img.icons8.com/fluent/344/visual-studio-code-2019.png" alt="Postman"/></code>
+**Work Tools:**
 
-**DevOps**
+<table>
+  <tr>
+    <td>
+      <a href="https://code.visualstudio.com/">
+        <img title="VSCode" alt="VSCode" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://slack.com/">
+        <img title="Slack" alt="VSCode" width="56px" src="https://user-images.githubusercontent.com/65639491/133542455-39845da3-1c57-4df5-9748-e8bf51f8af48.png">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
-<code><img height="32" src="https://img.icons8.com/color/2x/gitlab.png" alt="Gitlab"/></code>
-<code><img height="32" src="https://img.icons8.com/color/452/kubernetes.png" alt="Kubernetes"/></code>
-<code><img  height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" alt="Docker"/></code>
-<code><img width=44 height="32" src="https://cdn.worldvectorlogo.com/logos/rancher.svg" alt="Docker"/></code>
-<code><img width=48 height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws"/></code>
-
-**Business Tools**
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/trello-2752053-2284870.png" alt="Trello"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/slack-2752072-2284889.png" alt="Trello"/></code>
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/asana-512.png" alt="Trello"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/skype-48-156921.png" alt="Trello"/></code>
 
 <br/>
 
