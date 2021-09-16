@@ -40,12 +40,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img title="JavaScript" alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
       </a>
     </td>
     <td>
-      <a href="https://www.typescriptlang.org/">
+      <a href="https://www.typescriptlang.org/" target="blank">
         <img title="TypeScript" alt="TypeScript" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
       </a>
     </td>
@@ -79,13 +79,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img title="HTML" alt="HTML" width="56px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-256.png">
+      <a href="https://aws.amazon.com/">
+        <img title="aws" alt="aws" width="74px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-256.png">
       </a>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img title="HTML" alt="HTML" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
+      <a href="https://kubernetes.io/">
+        <img title="kubernetes" alt="kubernetes" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
       </a>
     </td>
   </tr>
@@ -97,7 +97,7 @@
   <tr>
     <td>
       <a href="https://code.visualstudio.com/">
-        <img title="VSCode" alt="VSCode" width="56px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+        <img title="VSCode" alt="VSCode" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
       </a>
     </td>
     <td>
