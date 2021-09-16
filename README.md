@@ -27,7 +27,7 @@
 </a>
 
 <a href="mailto:pedro.oliveira.unb@gmail.com">
-  <code><img alt="My e-mail" width="32" src="![image](https://user-images.githubusercontent.com/65639491/133540491-db05d884-4f6d-415b-bb28-7d3dccd2c964.png)" /></code>
+  <code><img alt="My e-mail" width="32" src="https://user-images.githubusercontent.com/65639491/133540491-db05d884-4f6d-415b-bb28-7d3dccd2c964.png" /></code>
 </a>
 
 <br/><br/>
