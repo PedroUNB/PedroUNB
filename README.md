@@ -80,17 +80,12 @@
   <tr>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img title="HTML" alt="HTML" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+        <img title="HTML" alt="HTML" width="56px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-256.png">
       </a>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img title="CSS" alt="CSS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://sass-lang.com/">
-        <img title="SASS" alt="SASS" width="56px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img title="HTML" alt="HTML" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
       </a>
     </td>
   </tr>
