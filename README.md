@@ -21,11 +21,11 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/pedro-oliveira-dev/">
-  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1638880129~hmac=17e366b9255799466944b0b2d00b6cb3" /></code>
+  <code><img alt="My linkedin" width="28" src="https://img.icons8.com/fluency/344/linkedin.png" /></code>
 </a>
 
 <a href="mailto:pedro.oliveira.unb@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/fluency/344/linkedin.png" /></code>
+  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/fluency/344/email-open.png" /></code>
 </a>
 
 <a href="https://pedrounb.com.br">
