@@ -5,7 +5,7 @@
 ### Welcome to my page!
 <p>
   I've been working as a software developer since 2018. I've worked in several companies in Brazil, making the lives of more than 100 thousand users easier through the development of solutions. In the present day, I work as a tech lead and a spreader of the DevOps culture on a innovative tool in the Brazilian scenario. Currently 22 years old and living in
-  <b>Brazil</b>   <img width="14" src="https://cdn-icons.flaticon.com/png/512/186/premium/186203.png?token=exp=1638880171~hmac=516a86f3518085c62827a18f034c3847" alt="Brazil" />.
+  <b>Brazil</b>   <img width="14" src="https://img.icons8.com/color/344/brazil.png" alt="Brazil" />.
 </p>
 
 ### Talking about Personal Stuffs
