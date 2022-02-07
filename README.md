@@ -4,13 +4,13 @@
 
 ### Welcome to my page!
 <p>
-  I'm a FullStack Developer and Computer Science Student at University of Brasilia, currently 22 years old and living in
+  I've been working as a software developer since 2018. I've worked in several companies in Brazil, making the lives of more than 100 thousand users easier through the development of solutions. In the present day, I work as a tech lead and a spreader of the DevOps culture on a innovative tool in the Brazilian scenario. Currently 22 years old and living in
   <b>Brazil</b>   <img width="14" src="https://cdn-icons.flaticon.com/png/512/186/premium/186203.png?token=exp=1638880171~hmac=516a86f3518085c62827a18f034c3847" alt="Brazil" />.
 </p>
 
 ### Talking about Personal Stuffs
 
-- 👨‍🏫 I'am a participant in the pedagogical residency program;
+- 👨‍🏫 I'am a participant in the teacher residency program;
 
 - 👩🏻‍💻 I’m currently working on <a href="https://curia.coop/">Curia</a> project;
 
@@ -25,7 +25,7 @@
 </a>
 
 <a href="mailto:pedro.oliveira.unb@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://user-images.githubusercontent.com/65639491/133540491-db05d884-4f6d-415b-bb28-7d3dccd2c964.png" /></code>
+  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/fluency/344/linkedin.png" /></code>
 </a>
 
 <a href="https://pedrounb.com.br">
