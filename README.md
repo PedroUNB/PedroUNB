@@ -131,8 +131,11 @@
 
 <br/>
 
+<!--
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/PedroUNB/PedroUNB" alt="Visitors badge" />
    </a>
 </p>
+-->
+![](https://komarev.com/ghpvc/?username=PedroUNB&color=green)
